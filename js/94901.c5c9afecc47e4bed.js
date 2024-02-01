@@ -1,0 +1,4 @@
+"use strict";
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{},n=(new Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="400dd55f-2df6-5e25-b77e-3049af3ff6aa")}catch(e){}}();
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[94901],{568785:function(e,r,n){n.r(r),n.d(r,{CodeBlock:function(){return l.d},CodeBlockServer:function(){return i}});var s=n(397458),c=n(14517),o=n(652983),u=n(652016),a=n(660880),t=n.n(a);function i(e){let{children:r,as:n,className:a,filename:i,custom:l,hideLineNumbers:d,...h}=e,m=(0,o.useMemo)(()=>(0,s.jsx)("pre",{className:(0,c.W)(t().pre),children:(0,s.jsx)("code",{className:t().code,children:r})}),[r]),f=(0,o.useMemo)(()=>Array.isArray(r)?r.length:0,[r]);return(0,s.jsx)(u.i,{as:n,className:a,custom:l,filename:i,hideLineNumbers:d||f<2,textToCopy:r,...h,children:m})}var l=n(895834)}}]);
+//# debugId=400dd55f-2df6-5e25-b77e-3049af3ff6aa
